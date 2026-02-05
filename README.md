@@ -18,5 +18,5 @@ Technical Implementation
 
 Assurance Quality 
 - Testing: Automated tests using Pest PH
-- - Custom Tests: Implemented feature tests for Task access and Security (TaskTest.php).
+- Custom Tests: Implemented feature tests for Task access and Security (TaskTest.php).
 - Core Tests: 24 infrastructure tests (Auth/Profile) plus 2 custom business logic tests.
